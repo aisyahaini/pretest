@@ -1,7 +1,6 @@
 # Case 3: End-to-End Mini Project 
-Creating an automated system for providing department recommendations based on input regarding gender, age, and symptoms
-**[Github]([https://aistudio.google.com/](https://github.com/aisyahaini/pretest))** 
-
+Creating an automated system for providing department recommendations based on input regarding gender, age, and symptoms  
+**[Github Link](https://github.com/aisyahaini/pretest)**
 
 # How To Run This APP
 
@@ -44,4 +43,3 @@ f. Output:
 The system can guess from gender, age, and symptoms entered for department recommendations. 
 
 ![Output](image.png)
-
